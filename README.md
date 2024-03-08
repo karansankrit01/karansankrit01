@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning c programming and python
 - 💞️ I’m focusing on learning the basics
 - 📫contact me/ mail to me on:- sankritkaran1@gmail.com
+- My social are :
+- X :https://twitter.com/karranrajput01
 - ⚡ Fun fact: enjoying my coding journy
 
 <!---
