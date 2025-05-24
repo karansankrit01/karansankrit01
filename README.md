@@ -1,14 +1,16 @@
-- 👋 Hi, I’m @karansankrit01
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c programming and python
-- 💞️ I’m focusing on learning the basics
-- 📫contact me/ mail to me on:- sankritkaran1@gmail.com
-- My social are :
-- LinkedIn :www.linkedin.com/in/karansankrit
-- X :https://twitter.com/karranrajput01
-- ⚡ Fun fact: enjoying my coding journy
+👋 Hi, I'm Karan Sankrit (@karansankrit01)
+👀 I'm passionate about coding and solving problems through code.
 
-<!---
-karansankrit01/karansankrit01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently learning C programming and Python — focusing on building strong fundamentals.
+
+💡 I'm dedicated to mastering the basics first, one step at a time.
+
+📫 You can reach me at: sankritkaran1@gmail.com
+
+🔗 Connect with me:
+
+LinkedIn :www.linkedin.com/in/karansankrit
+
+X (Twitter):https://x.com/karranrajput01
+
+⚡ Fun fact: I'm truly enjoying my coding journey and love building small projects that help me grow!
